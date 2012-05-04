@@ -1,0 +1,12 @@
+# Ignorar archivos de backup de emacs u otros editores
+
+*#
+*~
+
+# Ignorar archivos con extension html generados por markdown para previsualizacion del readme
+
+*.html
+
+# ignorar archivos compilados de emacs lisp
+
+*.elc
