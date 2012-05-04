@@ -32,7 +32,7 @@ C-mode
 
 Editando un archivo en el lenguaje C.
 
-![Screenshot de lenguaje C en Emacs](Screenshots/Screen-1.png "Lenguaje C en Emacs")
+![Screenshot de lenguaje C en Emacs](https://github.com/zoek1/Anxeli/blob/master/Screenshots/Screen-1.png "Lenguaje C en Emacs")
 	
 
 Java-mode
@@ -40,13 +40,13 @@ Java-mode
 
 Editando un archivo en el lenguaje Java.
 
-![Screenshot de lenguaje Java en Emacs](Screenshots/Screen-2.png "Lenguaje Java en Emacs")
+![Screenshot de lenguaje Java en Emacs](https://github.com/zoek1/Anxeli/blob/master/Screenshots/Screen-2.png "Lenguaje Java en Emacs")
 
 
-*** Compilación
+### Compilación
 
 Vista del moda Compile de Emacs.
 
-![Vista de Compile en Emacs con Anxeli](Screenshots/Screen-2.png "Compile en Emacs")
+![Vista de Compile en Emacs con Anxeli](https://github.com/zoek1/Anxeli/blob/master/Screenshots/Screen-3.png "Compile en Emacs")
 
 Versión: 1.0
