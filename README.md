@@ -47,6 +47,6 @@ Editando un archivo en el lenguaje Java.
 
 Vista del modo Compile de Emacs.
 
-![Vista de Compile en Emacs con Anxeli](https://www.dropbox.com/s/kh0yf44qkkaxwtg/Screen-3.png "Compile en Emacs")
+![Vista de Compile en Emacs con Anxeli](http://dl.dropbox.com/u/32744064/Screen-3.png "Compile en Emacs")
 
 Versión: 1.0
