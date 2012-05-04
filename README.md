@@ -11,7 +11,7 @@ pequeño tema llamado "Anxeli".
 Este tema trata de ser mas fácil la ubicación de elementos, como declaración 
 de variables, definición o declaración de funciones, clases, constantes.
 
-El tema Anxeli depende de el modo Color-theme [Color-theme][] para emacs.
+El tema Anxeli depende de el modo [Color-theme][] para emacs.
 
 [Color-theme]: http://www.nongnu.org/color-theme/ "Pagina de Color-theme para Emacs"
 
@@ -32,7 +32,7 @@ C-mode
 
 Editando un archivo en el lenguaje C.
 
-![Screenshot de lenguaje C en Emacs](https://github.com/zoek1/Anxeli/blob/master/Screenshots/Screen-1.png "Lenguaje C en Emacs")
+![Screenshot de lenguaje C en Emacs](http://dl.dropbox.com/u/32744064/Screen-1.png "Lenguaje C en Emacs")
 	
 
 Java-mode
@@ -40,13 +40,13 @@ Java-mode
 
 Editando un archivo en el lenguaje Java.
 
-![Screenshot de lenguaje Java en Emacs](https://github.com/zoek1/Anxeli/blob/master/Screenshots/Screen-2.png "Lenguaje Java en Emacs")
+![Screenshot de lenguaje Java en Emacs](http://dl.dropbox.com/u/32744064/Screen-2.png "Lenguaje Java en Emacs")
 
 
 ### Compilación
 
-Vista del moda Compile de Emacs.
+Vista del modo Compile de Emacs.
 
-![Vista de Compile en Emacs con Anxeli](https://github.com/zoek1/Anxeli/blob/master/Screenshots/Screen-3.png "Compile en Emacs")
+![Vista de Compile en Emacs con Anxeli](https://www.dropbox.com/s/kh0yf44qkkaxwtg/Screen-3.png "Compile en Emacs")
 
 Versión: 1.0
